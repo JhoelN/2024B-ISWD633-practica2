@@ -2,6 +2,8 @@
 ### ¿Qué son las variables de entorno
 # COMPLETAR
 
+Son valores dinámicos que se pueden pasar a los contenedores en el momento de su creación. Estas variables permiten personalizar el comportamiento del contenedor y la configuración de las aplicaciones que se ejecutan en él sin tener que modificar el código o los archivos de configuración internos del contenedor.
+
 ### Para crear un contenedor con variables de entorno?
 
 ```
