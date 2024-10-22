@@ -19,6 +19,8 @@ No puedes mapear puertos a un contenedor existente directamente después de su c
 
 # COLOCAR UNA CAPTURA DE PANTALLA  DEL ACCESO http://localhost:8080
 
+![Imagen]( )
+
 ### ¿Cómo obtener la contraseña solicitada?
 Para obtener la contraseña solicitada es necesario ingresar al contenedor.
 
@@ -32,10 +34,19 @@ docker exec <nombre contenedor> <comando> <argumentos opcionales>
 ```
 # COMPLETAR
 ### ¿Para qué se usa el comando ls?
+
+El comando ls se puede utilizar para listar los archivos y directorios dentro de un contenedor en ejecución. Si ejecutas el comando ls dentro de un contenedor, te mostrará el contenido del sistema de archivos del contenedor en el directorio en el que te encuentres.
+
 ### ¿Para qué sirve el argumento -l junto al comando ls?
+
+
+El argumento -l utilizado junto al comando ls sirve para mostrar los archivos y directorios en formato detallado (o formato largo). Esto incluye información adicional sobre cada archivo o directorio, como los permisos, el número de enlaces, el propietario, el grupo, el tamaño, y la fecha de la última modificación.
+
 ### Usar el contenedor de jenkins creado previamente y ejecutar el comando ls con el argumento -l
 # COMPLETAR
 # COLOCAR UNA CAPTURA DE PANTALLA
+
+![Imagen](
 
 ### Para ejecutar un shell interactivo en un contenedor de Docker especificado.
 El comando **docker exec** te permite acceder a la sesión shell de un contenedor en ejecución, estarás dentro del contenedor y podrás ejecutar comandos como si estuvieras en una terminal normal. 
