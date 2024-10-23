@@ -60,6 +60,8 @@ Es necesario especificar la ruta absoluta del archivo si este se encuentra en un
 
 # CAPTURA CON LA COMPROBACIÓN DE LA CREACIÓN DE LAS VARIABLES DE ENTORNO DEL CONTENEDOR ANTERIOR 
 
+![Imagen](img/Comprobacion.png)
+
 ### ¿Qué bases de datos existen en el contenedor creado?
 # COMPLETAR
 
