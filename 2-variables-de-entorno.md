@@ -16,6 +16,9 @@ docker run -d --name <nombre contenedor> -e <nombre variable1>=<valor1> -e <nomb
 
 # CAPTURA CON LA COMPROBACIÓN DE LA CREACIÓN DE LAS VARIABLES DE ENTORNO DEL CONTENEDOR ANTERIOR
 
+!imagen_(img/VariablesDeEntorno.png)
+
+
 ### Crear un contenedor con mysql:8 , mapear todos los puertos
 # COMPLETAR
 
