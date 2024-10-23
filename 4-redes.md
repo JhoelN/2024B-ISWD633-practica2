@@ -56,8 +56,8 @@ docker network ls
 
 ![Imagen](img/InspeccionarNet-curso01Primera.png)
 ![Imagen](img/net-curso01Segunda.png)
-![Imagen](img/net-curso02Primera.png)
-![Imagen](img/net-curso02Segunda.png)
+![Imagen](img/Net-curso02Primera.png)
+![Imagen](img/Net-curso02Segunda.png)
 
 ### Para eliminar las redes creadas
 ```
