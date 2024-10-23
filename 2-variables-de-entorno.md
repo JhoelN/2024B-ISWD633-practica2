@@ -16,20 +16,27 @@ docker run -d --name <nombre contenedor> -e <nombre variable1>=<valor1> -e <nomb
 
 # CAPTURA CON LA COMPROBACIÓN DE LA CREACIÓN DE LAS VARIABLES DE ENTORNO DEL CONTENEDOR ANTERIOR
 
-!imagen_(img/VariablesDeEntorno.png)
+![Imagen](img/VariablesDeEntorno.png)
 
 
 ### Crear un contenedor con mysql:8 , mapear todos los puertos
 # COMPLETAR
 
+![Imagen](img/CreacionMySQL.png)
+
 ### ¿El contenedor se está ejecutando?
 # COMPLETAR
+
+![Imagen](img/ContenedorSQL.png)
 
 ### Identificar el problema
 # COMPLETAR
 
 ### Eliminar el contenedor creado con mysql:8 
 # COMPLETAR
+
+![Imagen](img/BorrarContenedorSQL.png)
+
 
 ### Para crear un contenedor con variables de entorno especificadas
 - Portabilidad: Las aplicaciones se vuelven más portátiles y pueden ser desplegadas en diferentes entornos (desarrollo, pruebas, producción) simplemente cambiando el archivo de variables de entorno.
@@ -48,7 +55,12 @@ Es necesario especificar la ruta absoluta del archivo si este se encuentra en un
 ### Crear un contenedor con mysql:8 , mapear todos los puertos y configurar las variables de entorno mediante un archivo
 # COMPLETAR
 
+![Imagen](img/CreacionArchivoenv.png)
+
+
 # CAPTURA CON LA COMPROBACIÓN DE LA CREACIÓN DE LAS VARIABLES DE ENTORNO DEL CONTENEDOR ANTERIOR 
 
 ### ¿Qué bases de datos existen en el contenedor creado?
 # COMPLETAR
+
+![Imagen](img/BasedeDatosenElContendor.png)
