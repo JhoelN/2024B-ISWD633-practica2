@@ -10,7 +10,7 @@
 ### Crear el contenedor wordpress a partir de la imagen: wordpress, configurar las variables de entorno necesarias
 # COMPLETAR
 
-De acuerdo con el trabajo realizado, en la el esquema de ejercicio el puerto a es **(completar con el valor)**
+De acuerdo con el trabajo realizado, en la el esquema de ejercicio el puerto a es 9300:80
 
 Ingresar desde el navegador al wordpress y finalizar la configuración de instalación.
 # COLOCAR UNA CAPTURA DE LA CONFIGURACIÓN
