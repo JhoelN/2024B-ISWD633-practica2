@@ -4,7 +4,7 @@ Si solucionó un problema presentado al realizar la práctica también se debe d
 ------------------------------------------
 Antes de la práctica:
 
-Antes de comenzar la práctica con Docker, no sabía mucho sobre contenedores, redes y cómo se configuran los puertos. Esto me limitaba en mi capacidad para trabajar con aplicaciones que requieren múltiples servicios.
+Antes de comenzar la práctica con Docker, no sabía mucho sobre contenedores, redes y cómo se configuran los puertos. 
 
 Después de la práctica:
 
